@@ -1,6 +1,6 @@
 ## Hello friend. My name is Jonathas Veras and coding is my passion
 - 🔭 Today I work with Web Developer full stack
-- 🌱 I am currently learning Django Rast and React Next
+- 🌱 I am currently learning Django Rest and React Next
 - 📫 You can contact me at email: jonathasveras42@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love Ghibli Movies
